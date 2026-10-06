@@ -16,3 +16,4 @@
 | POST | /chats/:chatId/messages/read | { userId } |
 | POST | /chats/:chatId/last-seen | { userId } |
 | GET | /users/:userId/chats | - |
+# chat-backend
